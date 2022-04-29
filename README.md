@@ -6,5 +6,5 @@ Hello there 👀
 
 --------------
 `Current Work:`
-> [Adonis](https://github.com/Sceleratis/Adonis) Contributor
+> [Adonis](https://github.com/Sceleratis/Adonis) Contributor\
 > Hmm...
